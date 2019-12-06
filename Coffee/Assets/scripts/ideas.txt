@@ -1,0 +1,32 @@
+[X] people randomly spawned
+[X] people deciding to buy or not
+[X] people paying
+[X] people change based on their decision - 'in this case changing color';
+[X] player can change the price
+
+[] more mood dependent decision
+    factors of the environment affect the decision
+        'weather'
+        'the price' 
+        'how much money they have'
+
+[+] weather system
+[] reputation
+
+[] art
+    going for a colorful look
+    weather
+    people 
+        human figures
+        aliens
+            ~ expanding
+                kings
+                knights
+
+[] KEY ~ ability to make coffee
+    changing things up
+        sweetness
+        bitterness
+        milk
+        strong
+        weak
